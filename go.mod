@@ -10,5 +10,5 @@ require (
 	golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8 // indirect
 	golang.org/x/mobile v0.0.0-20191123054942-d9e324ca8c38 // indirect
 	golang.org/x/sys v0.0.0-20191128015809-6d18c012aee9 // indirect
-	korok.io/korok v0.0.0-20190510074201-e1c21c90d257 // indirect
+	korok.io/korok v0.0.0-20190510074201-e1c21c90d257
 )
